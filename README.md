@@ -1,3 +1,5 @@
+
+![](logo.png)
 # Dynamic-Canary-of-Self-Encryption
 A High Efficient Protection against Brute-force Attacks
 ===========
