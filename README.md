@@ -1,5 +1,5 @@
 
-![](logo.png)
+<img src="logo.png" width = "150%" height = "100%" alt="图片名称" />
 # Dynamic-Canary-of-Self-Encryption
 A High Efficient Protection against Brute-force Attacks
 ===========
