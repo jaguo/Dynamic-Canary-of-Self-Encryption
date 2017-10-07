@@ -72,3 +72,6 @@ start)
   LD_LIBRARY_PATH=/usr/lib64/glibc-2.19/lib LD_PRELOAD=/home/wangzhilong/Desktop/dynamic_encrypt_redundant_stackguard/libredundantguard.so /usr/sbin/nginx -s stop
   ```
 
+
+## other benchmarks
+http://www.gnutoolbox.com/linux-benchmark-tools/
